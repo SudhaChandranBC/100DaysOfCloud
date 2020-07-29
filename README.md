@@ -16,7 +16,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Sudha Chandran's Cloud Journey
 
-An iOS developer by profession and cloud enthusiast.
+Hi I'm Sudha, an iOS developer by profession and cloud enthusiast.
 
 I'm starting this project to learn more about Cloud platforms by doing hands-on projects.
 
@@ -29,7 +29,7 @@ At the end of this challenge i wish to see myself as a cloud architect by profes
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day][Setup and plan](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Hosting a static website on AWS S3](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
