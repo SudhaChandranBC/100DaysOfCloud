@@ -7,7 +7,7 @@
 - Today I learnt how to host a static website on S3.
 - Creating buckets, configuring properties, policies.
 - Creation of DNS name.
-- Here's my dev post of my learnings. https
+- Here's my dev post of my learnings.
 
 ## Social Proof
 
