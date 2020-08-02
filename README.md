@@ -33,7 +33,7 @@ At the end of this challenge i wish to see myself as a cloud architect by profes
 - [ ] ☁️ 3 > [Securing static website with SSL Certificate and CloudFront!](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [AWS SAM to create DynamoDB, Lambda and an API.](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Github Actions for AWS S3 files upload and AWS SAM Deployments](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [Start Learning Microsoft Azure](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
