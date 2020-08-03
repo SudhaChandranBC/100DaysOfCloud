@@ -1,52 +1,78 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Azure Costs and pricing models
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Cost is one of the most important aspects of the cloud and can have a massive impact on your business. Azure has several tools available to help you get a better understanding of cloud spend and some best practices that you can leverage to help you save money.
 
-## Prerequisite
+## Usage meters
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+* Compute Hours
+* IP Address Hours
+* Data Transfer In
+* Data Transfer Out
+* Standard Managed Disk
+* Standard Managed Disk Operations
+* Standard IO-Disk
+* Standard IO-Block Blob Read
+* Standard IO-Block Blob Write
+* Standard IO-Block Blob Delete
 
-## Use Case
+## Factors affecting costs
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+* Resource type
+* Services
+* Location
+* Azure billing zones
 
-## Cloud Research
+## Azure pricing calculator
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+To make estimates easy for customers to create, Microsoft developed the Azure pricing calculator. The Azure pricing calculator is a free web-based tool that allows you to input Azure services and modify properties and options of the services. It outputs the costs per service and total cost for the full estimate.
 
-## Try yourself
+On the pricing calculator page, you'll see several tabs:
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+* Products. This tab is where you'll do most of your activity. This tab has all the Azure services listed and is where you'll add or remove services to put together your estimate.
+* Example Scenarios This tab has several examples of infrastructure involved in common cloud-based solutions. You can add all the components of the entire scenario to estimate the cost.
+* Saved Estimates. This tab has all of your previously saved estimates. We'll go through this process in a moment.
+* FAQ. Just as it says, this tab has answers to some frequently asked questions.
 
-### Step 1 — Summary of Step
+## Tried out example scenarios on Azure pricing calculator
 
-![Screenshot](https://via.placeholder.com/500x300)
+I've tried out example Scenarios of CI/CD for Azure Web Apps
+Which uses following Azure Products:
+* Azure DevOps
+* App Service
+* Azure Monitor
+* Azure Data Lake Storage
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 1 — Open Pricing Calculator 
 
-### Step 3 — Summary of Step
+[Azure Pricing Calculator ](https://azure.microsoft.com/en-us/pricing/calculator/)
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](img/azure-pricing-calc.png)
 
-## ☁️ Cloud Outcome
+### Step 2 — Click 2nd tab "Example Scenarios" and "CI/CD for Azure Web Apps"
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+![Screenshot](img/CI-CD Devops.png)
 
-## Next Steps
+### Step 3 — Check and modify your estimate.
 
-✍️ Describe what you think you think you want to do next.
+![Screenshot](img/estimate.png)
+
+## ☁️ Finally you can export, save and share this estimate with your boss! 
+
+Also you can directly purchase the estimated cost.
+
+## Results
+
+We have arrived at a cost estimate for a set of Azure services without spending any money. We didn't create anything, and we have a fully sharable estimate that we can do further analysis or modifications on in the future
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[DEV.tp](https://dev.to/sudhachandranbc/microsoft-azure-pricing-calculator-2628)
+[Twitter](https://twitter.com/SudhaKishoreBC/status/1290250743581040640)
