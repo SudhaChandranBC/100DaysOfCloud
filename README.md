@@ -35,7 +35,7 @@ At the end of this challenge i wish to see myself as a cloud architect by profes
 - [ ] ☁️ 5 > [Github Actions for AWS S3 files upload and AWS SAM Deployments](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Start Learning Microsoft Azure](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Azure Pricing Calculator](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 8 > [AZ-900: Azure compute services](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
