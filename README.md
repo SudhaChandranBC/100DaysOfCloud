@@ -37,7 +37,7 @@ At the end of this challenge i wish to see myself as a cloud architect by profes
 - [ ] ☁️ 7 > [Azure Pricing Calculator](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [AZ-900: Azure compute services](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [AZ-900: Azure portal and storage options](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [AWS Data Exchange, AWs Glue](Journey/010/Readme.md)
 
 ## Walking down the road
 
